@@ -300,6 +300,10 @@ button:focus-visible {
   cursor: pointer;
 }
 
+.content__card-link {
+  text-decoration: none;
+}
+
 .content__list-item:hover .content__video-card-title,
 .content__list-item:hover .content__video-card-description {
   text-decoration: underline;
